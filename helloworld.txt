@@ -1,2 +1,3 @@
-Hellow world text file.
-Edit text added here.
+Hello world text file.
+Edit text added.
+
